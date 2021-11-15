@@ -10,7 +10,7 @@
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
-        <dependency>
+        <dependency>2
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
